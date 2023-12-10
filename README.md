@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Creative Projects
 - 📫 reach me in Below Links:
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanjr13&show_icons=true&theme=radical)
 Telegram:@imanjr13
 LinkedIn:https://www.linkedin.com/in/iman--jafari
 
